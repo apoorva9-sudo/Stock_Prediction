@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using SVM  
+#  Stock Price Prediction using SVM  
 
 This project applies **Machine Learning (Support Vector Machine - SVM)** to predict stock price movement based on historical data.  
 The model predicts whether the **next day’s closing price** will be **higher or lower** compared to today’s price, and evaluates performance using different SVM kernels (Linear, Polynomial, RBF, Sigmoid).  
@@ -48,7 +48,7 @@ You can replace `RELIANCE.csv` with any stock dataset of your choice, making sur
 
 ---
 
-## ▶ How to Run  
+##  How to Run  
 
 1. Clone this repository  
    ```bash
